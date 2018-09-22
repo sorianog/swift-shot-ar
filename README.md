@@ -1,6 +1,7 @@
 # SwiftShot: Creating a Game for Augmented Reality
 
-See how Apple built the featured demo for WWDC18, and get tips for making your own multiplayer games using ARKit, SceneKit, and Swift.
+See how Apple built the featured demo for WWDC18, and get tips for making your own multiplayer games using ARKit, SceneKit, and Swift.  
+Source: https://developer.apple.com/documentation/arkit/swiftshot_creating_a_game_for_augmented_reality
 
 ## Overview
 
